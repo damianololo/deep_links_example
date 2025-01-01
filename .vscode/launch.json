@@ -7,17 +7,20 @@
     
         {
             "name": "deep_links_example",
+            "cwd": "app",
             "request": "launch",
             "type": "dart"
         },
         {
             "name": "deep_links_example (profile mode)",
+            "cwd": "app",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
         },
         {
             "name": "deep_links_example (release mode)",
+            "cwd": "app",
             "request": "launch",
             "type": "dart",
             "flutterMode": "release"
